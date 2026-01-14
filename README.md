@@ -1,4 +1,4 @@
-![Alt text]([ChatGPT Image Jan 14, 2026, 08_57_40 PM.png](https://github.com/yoni-oss/DropeScope./blob/c45002ca21fb74c0b48a4bed8c1a20f4f556538a/ChatGPT%20Image%20Jan%2014%2C%202026%2C%2008_57_40%20PM.png))
+([ChatGPT Image Jan 14, 2026, 08_57_40 PM.png](https://github.com/yoni-oss/DropeScope./blob/c45002ca21fb74c0b48a4bed8c1a20f4f556538a/ChatGPT%20Image%20Jan%2014%2C%202026%2C%2008_57_40%20PM.png))
 
 DropScope is a lightweight tool that monitors FPS in real time, detects CPU, RAM, GPU, and disk bottlenecks, and explains causes in plain language. Keep a history of drops, get system optimization tips, and enjoy smoother, more consistent gaming all with a sleek, glassy interface.
 
